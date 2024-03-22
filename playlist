@@ -41,6 +41,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",DISCOVERY SCIENCE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
+#EXTINF:-1 tvg-id="NatGeo2" tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="Knowledge",Nat Geo 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
+
 #EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
