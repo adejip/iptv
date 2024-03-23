@@ -4,7 +4,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NatGeoWild.Id" tvg-logo="https://i.imgur.com/zqa20Bh.png" group-title="Knowledge",Nat Geo Wild
+#EXTINF:-1 tvg-id="NatGeoWild.Id" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/nat_geo_wild.png" group-title="Knowledge",Nat Geo Wild
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -12,37 +12,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|
 #EXTINF:-1 tvg-id="Outdoor.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Knowledge",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="Knowledge",Nat Geo
+#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/nat_geo.png" group-title="Knowledge",Nat Geo
 http://iptvtree.net:8080/F14995/a84c0963/165094
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AnimalPlanet.Id" tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="Knowledge",ANIMAL PLANET
+#EXTINF:-1 tvg-id="AnimalPlanet.Id" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/animal_planet.png" group-title="Knowledge",ANIMAL PLANET
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryWorld" tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="Knowledge",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorld" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/discovery.png" group-title="Knowledge",Discovery World
 http://iptvtree.net:8080/F14995/a84c0963/157528
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="Knowledge",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/discovery.png" group-title="Knowledge",DISCOVERY CHANNEL
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="bbcEarth" tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="Knowledge",BBC EARTH
+#EXTINF:-1 tvg-id="bbcEarth" tvg-logo="https://www.pngitem.com/pimgs/m/175-1752804_white-bbc-earth-logo-hd-png-download.png" group-title="Knowledge",BBC EARTH
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="CRIMEINVESTIGATION" tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="Knowledge",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CRIMEINVESTIGATION" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/crime_inves.png" group-title="Knowledge",CRIME INVESTIGATION
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",DISCOVERY SCIENCE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
-
-#EXTINF:-1 tvg-id="NatGeo2" tvg-logo="https://i.imgur.com/OZ8lCeO.png" group-title="Knowledge",Nat Geo 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -50,14 +47,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://i.imgur.com/YNpOmEc.png" group-title="Knowledge",HISTORY
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/history.png" group-title="Knowledge",HISTORY
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="",National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="",National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 
 =========================================== MOVIE ===========================================
 
