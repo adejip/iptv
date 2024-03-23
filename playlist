@@ -9,7 +9,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Outdoor.Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/640" group-title="Knowledge",Outdoor
+#EXTINF:-1 tvg-id="Outdoor.Id" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/outdoor.png" group-title="Knowledge",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/nat_geo.png" group-title="Knowledge",Nat Geo
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="bbcEarth" tvg-logo="https://www.pngitem.com/pimgs/m/175-1752804_white-bbc-earth-logo-hd-png-download.png" group-title="Knowledge",BBC EARTH
+#EXTINF:-1 tvg-id="bbcEarth" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/bbc_earth.png" group-title="Knowledge",BBC EARTH
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,7 +41,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",DISCOVERY SCIENCE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-id="LoveNature" tvg-logo="https://raw.githubusercontent.com/adejip/iptv/main/logo/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
